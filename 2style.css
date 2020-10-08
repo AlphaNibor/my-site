@@ -1,0 +1,21 @@
+.head-sec-right{
+  overflow:hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width:55%;
+  height:350px;
+  position:relative;
+  background-image: url("img/bg.jpg");
+  background-size:cover ;
+  background-position:center ;
+  
+  }
+  
+.head-sec-right svg{
+  width:70%;
+  height:70%;
+  visibility:hidden;
+  margin-left:40px;
+  margin-top:20px;
+}
